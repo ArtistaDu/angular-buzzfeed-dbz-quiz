@@ -1,0 +1,153 @@
+{
+  "title": "Qual Sayajin você seria?",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Qual seu objetivo como guerreiro?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Enfrentar os seres mais poderosos",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "name": "Ser considerado o mais forte",
+          "alias": "B"
+        },
+        {
+          "id": 3,
+          "name": "Estudar e constituir família",
+          "alias": "C"
+        },
+        {
+          "id": 4,
+          "name": "Conquistar o orgulho de meu pai",
+          "alias": "D"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Quem você salvaria primeiro?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Minha esposa",
+          "alias": "B"
+        },
+        {
+          "id": 2,
+          "name": "Meus amigos",
+          "alias": "C"
+        },
+        {
+          "id": 3,
+          "name": "Mamãe",
+          "alias": "D"
+        },
+        {
+          "id": 4,
+          "name": "A Terra",
+          "alias": "A"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Seu hobby?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Tecnologia",
+          "alias": "D"
+        },
+        {
+          "id": 2,
+          "name": "Sair com a namorada",
+          "alias": "C"
+        },
+        {
+          "id": 3,
+          "name": "Treinar",
+          "alias": "B"
+        },
+        {
+          "id": 4,
+          "name": "Bater um pratão de macarrão",
+          "alias": "A"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Como foi sua infância?",
+      "options": [
+        {
+          "id": 2,
+          "name": "Traumática",
+          "alias": "B"
+        },
+        {
+          "id": 3,
+          "name": "Sempre tive as mais recentes tecnologias",
+          "alias": "D"
+        },
+        {
+          "id": 4,
+          "name": "Tomava chinelada da mãe para fazer o dever",
+          "alias": "C"
+        },
+        {
+          "id": 1,
+          "name": "Não me lembro direito",
+          "alias": "A"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Como é sua personalidade?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Respeitoso",
+          "alias": "C"
+        },
+        {
+          "id": 2,
+          "name": "Malicioso",
+          "alias": "D"
+        },
+        {
+          "id": 3,
+          "name": "Puro coração",
+          "alias": "A"
+        },
+        {
+          "id": 4,
+          "name": "Orgulhoso",
+          "alias": "B"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "A": "Goku",
+      "img": "assets/img/goku.png"
+    },
+    {
+      "B": "Vegeta",
+      "img": "assets/img/vegeta.png"
+    },
+    {
+      "C": "Gohan",
+      "img": "assets/img/gohan.png"
+    },
+    {
+      "D": "Trunks",
+      "img": "assets/img/trunks.png"
+    }
+  ]
+}
